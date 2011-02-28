@@ -1,0 +1,66 @@
+html {
+	background-color: #333;
+}
+
+strong {
+	color: #690;
+}
+
+caption, legend {
+	color: #000;
+}
+
+abbr, acronym {
+	border-bottom-color: #ccc;
+}
+
+code {
+	background-color: #ccc;
+}
+
+#document {
+	background-color: transparent;
+	border-color: transparent;
+}
+
+#logo {
+	color: #fff;
+}
+
+#logo a {
+	color: #9c0;
+}
+
+#logo a em {
+	color: #cf3;
+}
+
+#body {
+	color: #333;
+	background-color: #fff;
+}
+
+#body h2 {
+	border-bottom-color: #ccc;
+	color: #690;
+}
+
+#body h3 {
+	color: #000;
+}
+
+#body a {
+	color: #690;
+}
+
+#body a:hover {
+	color: #000;
+}
+
+#copyright {
+	color: #fff;
+}
+
+#copyright a {
+	color: #cf3;
+}
