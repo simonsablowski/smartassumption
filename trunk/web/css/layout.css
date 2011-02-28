@@ -1,0 +1,50 @@
+html, body {
+	font-family: georgia,serif;
+	font-size: medium;
+	height: 100%;
+	letter-spacing: 1px;
+}
+
+a {
+	text-decoration: none;
+}
+
+#document {
+	height: auto;
+	min-height: 100%;
+}
+
+#document, #foot {
+	margin: auto;
+	width: 800px;
+}
+
+#head {
+	padding: 50px 0;
+}
+
+#logo {
+	font-size: 39px;
+	line-height: 0.45;
+	text-transform: uppercase;
+}
+
+#logo a {
+	display: block;
+}
+
+#body {
+	margin: 0 auto;
+	padding: 12px 20px 100px;
+}
+
+#foot {
+	margin-top: -100px;
+}
+
+#copyright {
+	font-size: 13px;
+	margin-top: 20px;
+	padding: 6px 0;
+	text-transform: uppercase;
+}

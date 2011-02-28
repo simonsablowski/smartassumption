@@ -1,0 +1,14 @@
+msgid "en"
+msgstr "de"
+
+msgid "smartassumption"
+msgstr "smartassumption"
+
+msgid "http://www.smartassumption.com/en"
+msgstr "http://www.smartassumption.com/de"
+
+msgid "Under construction."
+msgstr "In Arbeit."
+
+msgid "&copy; 2010 <a href="/en" title="smartassumption">smartassumption</a>"
+msgstr "&copy; 2010 <a href="/de" title="smartassumption">smartassumption</a>"
