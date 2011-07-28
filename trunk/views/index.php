@@ -28,7 +28,7 @@
 				</p>
 				<p>
 					HRB 202429, Amtsgericht Walsrode<br/>
-					UStID-Nr.: noch unbekannt
+					Steuernummer 48/218/04157, Finanzamt Verden (Aller)
 				</p>
 			</div>
 		</div>
