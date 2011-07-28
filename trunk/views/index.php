@@ -19,18 +19,31 @@
 			</div>
 			<div id="body">
 				<p>
-					smartassumption UG (haftungsbeschränkt) &mdash;
-					Langwedeler Straße 20 &mdash;
+					smartassumption UG (haftungsbeschränkt)<br/>
+					Langwedeler Straße 20<br/>
 					27283 Verden (Aller)
 				</p>
 				<p>
 					Geschäftsführer: Simon Sablowski
 				</p>
 				<p>
-					Amtsgericht Walsrode &mdash;
-					HRB 202429
+					HRB 202429, Amtsgericht Walsrode<br/>
+					UStID-Nr.: noch unbekannt
 				</p>
 			</div>
+		</div>
+		<div id="foot">
+			<ul class="links">
+				<li class="link">
+					<a href="http://simsab.de" title="simsab.de">simsab.de</a>
+				</li>
+				<li class="link">
+					<a href="http://notmybiz.com" title="notmybiz.com">notmybiz.com</a>
+				</li>
+				<li class="link">
+					<a href="http://motivado.de" title="motivado.de">motivado.de</a>
+				</li>
+			</ul>
 		</div>
 		<script type="text/javascript">
 		<!--
