@@ -2,5 +2,5 @@ ErrorDocument 404 index.php
 
 RewriteEngine on
 
-RewriteRule ^$ index.php
-RewriteRule ^([a-z]+)/?$ index.php?localization=$1
+RewriteRule ^$ index.php [L]
+RewriteRule ^([a-z]{2})/?$ index.php?localization=$1
